@@ -716,3 +716,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=students
 ls --color=auto
 rm students_test.csv
+rm courses_test.csv
